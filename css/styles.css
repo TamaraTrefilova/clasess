@@ -1,0 +1,18 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.full_version {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.third {
+  color: red;
+}
+
+.important {
+  color: red;
+}
